@@ -6,4 +6,4 @@ This code takes data from experimental three-body Dalitz analyses and generates 
 Download the code from github by either performing a git pull or simply clicking on "download zip" on the upper right-hand corner.
 
 ### Prerequisites
-In order to run this code you will need a working copy of Mathematica (version 9.0 or higher) on your machine. The code itself has all references from which data have been taken.
+In order to run this code you will need Mathematica (version 7.0 or higher) on your machine. The recommended version of Mathematica is the newest version or at least version 9.0 of higher. The code itself has all reference BABAR papers from which the data was taken.
